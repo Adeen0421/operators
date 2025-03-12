@@ -1,0 +1,6 @@
+print(2 & 3)
+print(9 | 3)
+print(11 ^ 3)
+print(~3)
+print(11 << 2)
+print(18>> 2)
